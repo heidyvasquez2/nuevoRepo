@@ -1,0 +1,8 @@
+class Heidy:
+
+    pass
+
+def saludar():
+    print("Hola Heidy")
+
+    saludar()
